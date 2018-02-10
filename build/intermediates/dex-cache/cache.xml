@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Development\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_e2a99be908ea4ecbd11b25472578863da131d91e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\libs\EasyAR.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76897f1f230cf857ea84d8b64deb73803d7839a6">
+        <dex dex="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\build\intermediates\pre-dexed\debug\EasyAR_103aea52b96b2929f4fba25fe3c9b52797e2b2dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_44da7865b0e042690810081162518c9dfdab9d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_b60e6d2b09f77602bbc9579447579688fa170f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_97aa98eb94b54fee35bf233f5b98469a3bf1e6b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_99b525c858e491ff5352f694cdc37087d48cd688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Development\Android\EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08\HelloAR\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_50384c59646dc5c229697bc7eee41d688f58edef.jar" />
+    </item>
+
+</items>

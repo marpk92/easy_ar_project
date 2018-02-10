@@ -1,0 +1,40 @@
+{
+  "images" :
+  [
+    {
+      "image" : "sightplus/argame00.jpg",
+      "name" : "argame"
+    },
+    {
+      "image" : "0324.jpg",
+      "name" : "idback",
+      "size" : [8.56, 8.56],
+      "uid" : "uid-string"
+    },
+    {
+      "image" : "HiroPattern.jpg",
+      "name" : "HiroPattern",
+      "size" : [8.56, 8.56],
+      "uid" : "uid-string"
+    },
+    {
+      "image" : "stones.jpg",
+      "name" : "stones",
+      "size" : [24.7, 17.3],
+      "uid" : "uid-string"
+    },
+    {
+      "image" : "pinball.jpg",
+      "name" : "pinball",
+      "size" : [20, 28.6],
+      "uid" : "uid-string"
+    },
+    {
+      "image" : "namecard.jpg",
+      "name" : "namecard",
+      "size" : [24.7, 17.3],
+      "uid" : "uid-string"
+    }
+
+  ]
+}
