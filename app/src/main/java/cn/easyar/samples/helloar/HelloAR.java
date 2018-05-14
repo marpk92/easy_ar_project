@@ -120,16 +120,21 @@ public class HelloAR
     }
 
     private void loadForTracker(ImageTracker tracker){
-        loadFromJsonFile(tracker, "targets.json", "argame");
-        loadFromJsonFile(tracker, "targets.json", "idback");
+//        loadFromJsonFile(tracker, "targets.json", "argame");
+//        loadFromJsonFile(tracker, "targets.json", "idback");
 
 //        loadFromJsonFile(tracker, "targets.json", "stones");
 //        loadFromJsonFile(tracker, "targets.json", "HiroPattern");
-        loadAllFromJsonFile(tracker, "targets2.json");
-        loadFromImage(tracker, "pinball.jpg");
-        loadFromImage(tracker, "0324.jpg");
+//        loadAllFromJsonFile(tracker, "targets3.json");
+//        loadFromImage(tracker, "pinball.jpg");
+//        loadFromImage(tracker, "0324.jpg");
         loadFromImage(tracker, "namecard.jpg");
-        loadFromImage(tracker, "HiroPattern.jpg");
+        loadFromImage(tracker, "BASIC0000.png");
+        loadFromImage(tracker, "Glacier.png");
+        loadFromImage(tracker, "stones.jpg");
+        loadFromImage(tracker, "lego.jpg");
+        loadFromImage(tracker, "VuMark00.png");
+//        loadFromImage(tracker, "HiroPattern.jpg");
 
 
     }
